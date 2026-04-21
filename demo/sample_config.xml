@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<NetworkServiceConfig>
+  <Lanes>
+    <Lane>
+      <Host>10.0.0.10</Host>
+      <Host>10.0.0.11</Host>
+    </Lane>
+    <Lane>
+      <Host>10.0.1.10</Host>
+      <Host>10.0.1.11</Host>
+    </Lane>
+  </Lanes>
+  <Options>
+    <AlphaNumericKeyboard>true</AlphaNumericKeyboard>
+    <EncodeOperatorIDPW>true</EncodeOperatorIDPW>
+    <SignOnTimeout>5000</SignOnTimeout>
+    <ConnectionPeriod>5000</ConnectionPeriod>
+  </Options>
+</NetworkServiceConfig>

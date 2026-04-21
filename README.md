@@ -33,6 +33,11 @@ This demo focuses on the *workflow and integrity considerations*, not the origin
 
 ---
 
+## Example configuration
+![xml_configuration_screenshot](/docs/xml_configuration_example.png)
+
+---
+
 ## Key insight
 Repetitive configuration work is a common source of hidden risk. Treating configuration as a structured,
 reviewable artifact rather than a one‑off edit that reduces drift and supports safer operational and security outcomes.
